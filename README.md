@@ -18,7 +18,7 @@ const pedro = {
     role: "Futuro Dev Full Stack & IA",
     stack: {
         frontend: ["HTML5", "CSS3", "JavaScript", "Bootstrap"],
-        backend: ["Python", "Node.js"],
+        backend: ["Node.js"],
         ia: ["Machine Learning", "Data Science"],
         tools: ["Git", "GitHub", "VS Code"]
     },
