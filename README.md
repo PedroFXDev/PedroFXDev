@@ -55,6 +55,7 @@ const pedro = {
 | ⌘ **CommandZ** | Agência de sites profissionais — design clean tech | `HTML` `CSS` `JS` | [Ver →](https://pedrofxdev.github.io/Commandz/) |
 | 🎤 **EOON°G** | Site profissional para artista musical | `HTML` `CSS` `JS` | [Ver →](https://vitinsantos.github.io/ProjetoNg/) |
 | 🔷 **UP Vidros** | Site institucional de envidraçamento premium | `HTML` `CSS` `JS` | [Ver →](https://up-vidros-df.surge.sh/) |
+| 🏢 **Veigh** | Ideia de um site  Site profissional parao artista  | `HTML` `CSS` `JS` | [Ver →](https://pedrofxdev.github.io/veigh/) |
 
 </div>
 
