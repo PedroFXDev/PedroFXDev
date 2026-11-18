@@ -1,71 +1,46 @@
-div align="center">Pedro Xavier
-Engenharia de IA aplicada · Agentes & LLMs · Python · Dados · Back-end
+div align="center"><picture>
+  <source media="(max-width: 600px)" srcset="./assets/hero-pedro-mobile.svg" />
+  <img src="./assets/hero-pedro-animado.svg" alt="Pedro Xavier — IA aplicada, agentes, Python e Back-end: capa animada" width="100%" />
+</picture><a href="https://www.linkedin.com/in/pedro-xavierf/"><img alt="LinkedIn" src="./assets/logos/linkedin.svg" width="28" height="28" /></a>  
+<a href="https://github.com/PedroFXDev"><img alt="GitHub" src="./assets/logos/github.svg" width="28" height="28" /></a>
 
-<sub>Transformando modelos de IA, ferramentas e código em soluções para problemas reais.</sub>
-
-
-
-<img src="./assets/pxtech-cmd-ascii.svg" width="100%" alt="Animação ASCII em terminal: desenvolvedor programando ao lado de uma IA com logs de execução Hermes Agent" />
-<a href="https://www.linkedin.com/in/pedro-xavierf/"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/PedroFXDev"><img src="https://img.shields.io/badge/GitHub-PedroFXDev-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+Transformando IA, dados e código em soluções que funcionam no mundo real.
 </div>// linguagens_e_ferramentas
-<div align="center">> Python, desenvolvimento e dados
-
-<img alt="Python" title="Python" width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />  
-<img alt="JavaScript" title="JavaScript" width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />  
-<img alt="Node.js" title="Node.js" width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />  
-<img alt="Jupyter" title="Jupyter Notebook" width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />  
-<img alt="Git" title="Git" width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />  
-<img alt="VS Code" title="Visual Studio Code" width="52" height="52" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-
-
-
-> IA, modelos e agentes
-
-<img src="./assets/hermes-badge.svg" width="180" alt="Hermes Agent — badge personalizado" /> 
-<img alt="Google Gemini API" src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" height="40" /> 
-<img alt="LLMs" src="https://img.shields.io/badge/LLMs-12365A?style=for-the-badge&logo=ollama&logoColor=white" height="40" />
-
-
-
-<img alt="Prompt Engineering" src="https://img.shields.io/badge/Prompt%20Engineering-244463?style=flat-square&logo=googlegemini&logoColor=white" />
-<img alt="APIs REST" src="https://img.shields.io/badge/REST%20APIs-24556A?style=flat-square&logo=fastapi&logoColor=white" />
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-21262D?style=flat-square&logo=github&logoColor=white" /></div>// sobre_mim
+<div align="center"><table>
+<tr>
+<td align="center" width="120"><img src="./assets/logos/python.svg" alt="Python" height="53" /><br/><b>Python</b></td>
+<td align="center" width="120"><img src="./assets/logos/javascript.svg" alt="JavaScript" height="53" /><br/><b>JavaScript</b></td>
+<td align="center" width="120"><img src="./assets/logos/nodejs.svg" alt="Node.js" height="53" /><br/><b>Node.js</b></td>
+<td align="center" width="120"><img src="./assets/logos/hermes.svg" alt="Hermes Agent" height="53" /><br/><b>Hermes Agent</b></td>
+<td align="center" width="120"><img src="./assets/logos/vscode.svg" alt="VS Code" height="53" /><br/><b>VS Code</b></td>
+<td align="center" width="120"><img src="./assets/logos/git.svg" alt="Git" height="53" /><br/><b>Git</b></td>
+</tr>
+</table>Python · JavaScript · Node.js · Hermes Agent · VS Code · Git
+</div>// human_x_ai
+<div align="center"><img src="./assets/terminal-ascii-animado.svg" width="100%" alt="Animação ASCII: programador e Hermes Agent colaborando em um terminal com logs em movimento" /><sub>Uma cena em ASCII feita com SVG e animações nativas — sem GIF, vídeo ou JavaScript.</sub>
+</div>// sobre_mim
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco em Inteligência Artificial aplicada, agentes, Python, dados e back-end. Exploro fluxos com o Hermes Agent e integrações de LLMs. Minha experiência com atendimento e operações me ajuda a identificar problemas reais antes de pensar na tecnologia.
 const pedro = {
   nome: "Pedro Xavier",
-  formacao: "Análise e Desenvolvimento de Sistemas",
-  especialidade: "IA Aplicada, LLMs, Dados e Back-end",
-
-  foco_atual: [
-    "Agentes de IA com ferramentas e automações",
-    "Integração de APIs de modelos de linguagem",
-    "Python, processamento e análise de dados",
-    "Back-end e APIs REST"
-  ],
-
-  ambiente: {
-    agentes: ["Hermes Agent", "LLM workflows"],
-    inteligencia_artificial: ["Gemini API", "google-genai", "Prompt Engineering"],
-    dados: ["Python", "Jupyter Notebook"],
-    backend: ["Node.js", "JavaScript", "REST APIs"],
-    ferramentas: ["Git", "GitHub", "VS Code"]
-  },
-
-  objetivo: "Construir sistemas inteligentes que funcionam fora de uma demo"
+  foco: ["IA aplicada", "Agentes", "Dados", "Back-end"],
+  linguagens: ["Python", "JavaScript"],
+  ferramentas: ["Hermes Agent", "Node.js", "Git", "VS Code"],
+  interesse: "Automações e integrações com LLMs",
+  objetivo: "Construir software útil, confiável e escalável"
 };
-Atualmente exploro agentes de IA e automações com Hermes Agent, integrações de LLMs com APIs e aplicações práticas em dados e suporte. Minha base em atendimento e operações me ajuda a olhar para tecnologia a partir dos problemas que ela precisa resolver.
 // projetos_destaque
 Projeto	Descrição	Stack	Código
-Pxtech IA — Triagem Inteligente	Classificação de urgência por regras de negócio e geração de respostas empáticas via LLM para suporte técnico.	Python Gemini API Prompt Engineering	Perfil
-BigData	Análise, manipulação e exploração de dados estruturados, com foco em Data Science e Machine Learning.	Python Jupyter Notebook Data Science	Repositório
-ASLA API	Serviços de back-end e integração de rotas REST.	JavaScript Node.js API REST	Repositório
+Pxtech IA — Triagem Inteligente	Triagem automatizada de suporte, classificação de urgência por regras de negócio e geração de respostas empáticas com LLM.	Python LLMs Prompt Engineering	Ver →
+BigData	Análise, manipulação e exploração de dados estruturados, com foco em Data Science e Machine Learning.	Python Data Science	Ver →
+ASLA API	Desenvolvimento de serviços back-end e integração de rotas REST.	JavaScript Node.js REST API	Ver →
 
 
 // estatísticas
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PedroFXDev&show_icons=true&theme=transparent&hide_border=true&title_color=72E4E2&icon_color=57E0B0&text_color=A6BED7&include_all_commits=true&rank_icon=github" alt="Estatísticas de contribuições no GitHub de Pedro" height="180" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroFXDev&bg_color=0D1117&color=85B8DC&line=55DAAF&point=77E5E9&area=true&hide_border=true&custom_title=GitHub%20Activity" alt="Gráfico de atividade no GitHub" width="96%" /></div>// contato
-<div align="center"><a href="https://www.linkedin.com/in/pedro-xavierf/"><img src="https://img.shields.io/badge/LinkedIn-Pedro%20Xavier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://github.com/PedroFXDev"><img src="https://img.shields.io/badge/GitHub-PedroFXDev-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=PedroFXDev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&rank_icon=github" alt="Estatísticas do GitHub de PedroFXDev" width="470" /></div>// contato
+<div align="center"><a href="https://www.linkedin.com/in/pedro-xavierf/"><img src="./assets/logos/linkedin.svg" alt="LinkedIn" height="36" /></a>  
+<a href="https://github.com/PedroFXDev"><img src="./assets/logos/github.svg" alt="GitHub" height="36" /></a>
 
-<code>> PedroFXDev.init() // Building intelligent solutions, one commit at a time.</code>
+LinkedIn · GitHub
+
+> PedroFXDev.init() // Building intelligent solutions, one commit at a time.
 </div>
