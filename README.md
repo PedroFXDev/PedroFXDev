@@ -1,17 +1,14 @@
 <div align="center">
-  <picture>
-    <source media="(max-width: 600px)" srcset="./assets/hero-pedro-mobile.svg" />
-    <img src="./assets/hero-pedro-animado.svg" alt="Pedro Xavier — Python e Back-end em evolução" width="100%" />
-  </picture>
-
+  <h1>Pedro Xavier 👋</h1>
+  <p><b>Estudante de ADS · Foco em Python &amp; Desenvolvimento Back-end</b></p>
   <p>Transformando lógica, dados e código em soluções práticas.</p>
 
   <a href="https://www.linkedin.com/in/pedro-xavierf/">
-    <img alt="LinkedIn" src="./assets/logos/linkedin.svg" width="28" height="28" />
+    <img alt="LinkedIn" src="https://api.iconify.design/logos/linkedin-icon.svg" width="28" height="28" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/PedroFXDev">
-    <img alt="GitHub" src="./assets/logos/github.svg" width="28" height="28" />
+    <img alt="GitHub" src="https://api.iconify.design/mdi/github.svg?color=white" width="28" height="28" />
   </a>
 </div>
 
@@ -30,11 +27,26 @@ Atualmente foco em consolidar fundamentos de Python (lógica, estruturas de dado
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="110"><img src="./assets/logos/python.svg" alt="Python" height="48" /><br/><sub><b>Python</b></sub></td>
-      <td align="center" width="110"><img src="./assets/logos/git.svg" alt="Git" height="48" /><br/><sub><b>Git</b></sub></td>
-      <td align="center" width="110"><img src="./assets/logos/vscode.svg" alt="VS Code" height="48" /><br/><sub><b>VS Code</b></sub></td>
-      <td align="center" width="110"><img src="./assets/logos/javascript.svg" alt="JavaScript" height="48" /><br/><sub><b>JavaScript</b></sub></td>
-      <td align="center" width="110"><img src="./assets/logos/nodejs.svg" alt="Node.js" height="48" /><br/><sub><b>Node.js</b></sub></td>
+      <td align="center" width="110">
+        <img src="https://api.iconify.design/logos/python.svg" alt="Python" height="44" /><br/>
+        <sub><b>Python</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://api.iconify.design/logos/git-icon.svg" alt="Git" height="44" /><br/>
+        <sub><b>Git</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://api.iconify.design/logos/visual-studio-code.svg" alt="VS Code" height="44" /><br/>
+        <sub><b>VS Code</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://api.iconify.design/logos/javascript.svg" alt="JavaScript" height="44" /><br/>
+        <sub><b>JavaScript</b></sub>
+      </td>
+      <td align="center" width="110">
+        <img src="https://api.iconify.design/logos/nodejs-icon.svg" alt="Node.js" height="44" /><br/>
+        <sub><b>Node.js</b></sub>
+      </td>
     </tr>
   </table>
 </div>
@@ -48,8 +60,6 @@ Atualmente foco em consolidar fundamentos de Python (lógica, estruturas de dado
 | **Lógica e Fundamentos Python** | Exercícios de controle de fluxo, listas, laços e regras condicionais. | `Python` | [Ver →](#) |
 | **Pxtech IA — Triagem Inteligente** | Protótipo/estudo de fluxo de triagem e regras de suporte com apoio de LLM. | `Python` `Prompts` | [Ver →](#) |
 | **ASLA API** | Estudo de rotas e organização de serviços back-end. | `Node.js` `JavaScript` `REST` | [Ver →](#) |
-
-*(Substitua `#` pelos links reais de cada repositório e mantenha em destaque apenas o que já tem código publicado e funcionando.)*
 
 ---
 
